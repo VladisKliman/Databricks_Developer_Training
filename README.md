@@ -10,5 +10,9 @@
     - https://www.databricks.com/learn/free-edition
     - you can register with your Takeda or any other email account ( its free of charge with limited compute capacity) all links within training are only accesible via takeda net and closed to externaly. No takeda data had been used. 
 
-2. 
+2. Conenct github to your databricks workspace:
+    - when prompted copy URL of this repository to link it to databricks : https://github.com/VladisKliman/Databricks_Developer_Training
+    - in the end you should be able to see notebooks in you new github repository folder.
+ <img width="1912" height="353" alt="create_git_folder" src="https://github.com/user-attachments/assets/65f8e7dd-9c5b-426f-8090-0706a84eddaa" />
+  
 
