@@ -21,3 +21,4 @@ product_id,product_name,category,marker,db_timestamp
 120,Microwave,Kitchenware,I,2024-01-06T12:03:00
 121,Refrigerator,Kitchenware,I,2024-01-07T12:00:00
 122,Oven,Kitchenware,I,2024-01-07T12:01:00
+118,Tablet,Electronics,D,2024-01-08T12:01:00
